@@ -1,4 +1,32 @@
-/* Write your global styles here, in PostCSS syntax */
+@import '@fontsource/jetbrains-mono';
+@import '@fontsource/manrope';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+	--r-main-font: 'Manrope';
+	--r-heading-font: 'Manrope';
+	--r-code-font: 'JetBrains Mono';
+	--r-link-color: aqua;
+	--r-link-color-hover: aqua;
+}
+
+.hljs-title,
+.hljs-keyword {
+	font-weight: normal;
+}
+
+.reveal pre,
+.reveal code {
+	overflow: hidden !important;
+}
+
+.reveal pre {
+	box-shadow: none;
+}
+
+.hljs {
+	background: none;
+}

@@ -2,6 +2,7 @@
 	import Slide from './slide.svelte';
 	import Code from './code.svelte';
 	import Markdown from './markdown.svelte';
+	import Notes from './notes.svelte';
 </script>
 
 <Slide animate>
@@ -42,6 +43,11 @@
 	</div>
 </Slide>
 
+<Slide animate>
+	<h1>Slide</h1>
+	<Notes>Notes</Notes>
+</Slide>
+
 <Markdown>
 	{`
 		## Markdown
@@ -50,3 +56,13 @@
 </Markdown>
 
 <Markdown name="example.md" external />
+
+<Slide>
+	<Code lines>
+		{`
+			function notLove() {
+				console.log("SVELTE!")
+			}
+			`}
+	</Code>
+</Slide>

@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@fontsource/jetbrains-mono':
-    specifier: ^5.0.3
-    version: 5.0.3
+    specifier: ^5.2.8
+    version: 5.2.8
   '@fontsource/manrope':
     specifier: ^5.0.3
     version: 5.0.3
@@ -319,8 +319,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
 
-  /@fontsource/jetbrains-mono@5.0.3:
-    resolution: {integrity: sha512-0zbVAm0dVaBo7x9Q4ceX4VWe5VSM1Jaonb85bC+LR7fTpPeOpQs1nPDSdR55XMGSghl7ElsL12g8AaJKwXoutw==}
+  /@fontsource/jetbrains-mono@5.2.8:
+    resolution: {integrity: sha512-6w8/SG4kqvIMu7xd7wt6x3idn1Qux3p9N62s6G3rfldOUYHpWcc2FKrqf+Vo44jRvqWj2oAtTHrZXEP23oSKwQ==}
     dev: false
 
   /@fontsource/manrope@5.0.3:

@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -9,8 +9,8 @@ dependencies:
     specifier: ^5.0.3
     version: 5.0.3
   '@fontsource/manrope':
-    specifier: ^5.0.3
-    version: 5.0.3
+    specifier: ^5.2.8
+    version: 5.2.8
   '@types/reveal.js':
     specifier: ^4.4.2
     version: 4.4.2
@@ -323,8 +323,8 @@ packages:
     resolution: {integrity: sha512-0zbVAm0dVaBo7x9Q4ceX4VWe5VSM1Jaonb85bC+LR7fTpPeOpQs1nPDSdR55XMGSghl7ElsL12g8AaJKwXoutw==}
     dev: false
 
-  /@fontsource/manrope@5.0.3:
-    resolution: {integrity: sha512-MlRhrzpIEcgAB0MFdlQ/LVD5C4XB53Pq13Wxxb3inyEAPG+gSBoHW1NKGOWwOQs22FLlengtbOkmL5br2/YASw==}
+  /@fontsource/manrope@5.2.8:
+    resolution: {integrity: sha512-gJHJmcuUk7qWcNCfcAri/DJQtXtBYqi9yKratr4jXhSo0I3xUtNNKI+igQIcw5c+m95g0vounk8ZnX/kb8o0TA==}
     dev: false
 
   /@humanwhocodes/config-array@0.11.10:

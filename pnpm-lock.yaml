@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -15,8 +15,8 @@ dependencies:
     specifier: ^4.4.2
     version: 4.4.2
   reveal.js:
-    specifier: ^4.5.0
-    version: 4.5.0
+    specifier: ^4.6.1
+    version: 4.6.1
 
 devDependencies:
   '@sveltejs/adapter-auto':
@@ -1734,8 +1734,8 @@ packages:
     engines: {iojs: '>=1.0.0', node: '>=0.10.0'}
     dev: true
 
-  /reveal.js@4.5.0:
-    resolution: {integrity: sha512-Lx1hUWhJR7Y7ScQNyGt7TFzxeviDAswK2B0cn9RwbPZogTMRgS8+FTr+/12KNHOegjvWKH0H0EGwBARNDPTgWQ==}
+  /reveal.js@4.6.1:
+    resolution: {integrity: sha512-1CW0auaXNPmwmvQ7TwpszwVxMi2Xr5cTS3J3EBC/HHgbPF32Dn7aiu/LKWDOGjMbaDwKQiGmfqcoGQ74HUHCMw==}
     engines: {node: '>=10.0.0'}
     dev: false
 

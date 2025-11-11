@@ -37,6 +37,6 @@
 		"@fontsource/jetbrains-mono": "^5.0.3",
 		"@fontsource/manrope": "^5.0.3",
 		"@types/reveal.js": "^4.4.2",
-		"reveal.js": "^4.5.0"
+		"reveal.js": "^4.6.1"
 	}
 }
